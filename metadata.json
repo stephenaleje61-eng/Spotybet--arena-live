@@ -1,0 +1,8 @@
+{
+  "name": "SAFE PICKS ARENA",
+  "description": "Professional sports arena featuring real-time football predictions, live scores, global chat, admin analysis, sports betting platform spaces, and sports marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
